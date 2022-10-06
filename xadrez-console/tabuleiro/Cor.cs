@@ -8,7 +8,7 @@
         Azul,
         Vermelha,
         Verde,
-        Larnja
+        Laranja
 
     }
 }
